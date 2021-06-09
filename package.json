@@ -1,0 +1,25 @@
+{
+  "name": "coin-magnet",
+  "version": "1.0.0",
+  "description": "Detects coinmarketcap fresh added coins",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "coin",
+    "coinmarketcap",
+    "bitcoin",
+    "crypto",
+    "cryptocurrency",
+    "magnet",
+    "hook"
+  ],
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "coinmarketcap-api": "^3.1.1"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
