@@ -2,8 +2,13 @@
 
 Magnetic fishing for crypto coins.
 
-### Create a CoinMarketCap API key
+### You need to create a CoinMarketCap API key
 https://pro.coinmarketcap.com/signup/?plan=0
+
+## Install
+```bash
+$ npm install coin-magnet
+```
 
 ## Usage
 ```js
