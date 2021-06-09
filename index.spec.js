@@ -85,5 +85,7 @@ describe('detect-new-coin', () => {
       "last_historical_data": "2020-05-05T20:44:01.000Z",
       "platform": null
     })
+
+    magnet.stop()
   }, 20000)
 })
